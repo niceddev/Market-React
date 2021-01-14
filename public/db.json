@@ -1,0 +1,105 @@
+{
+    "cities": [
+        {
+            "city": "Актобе"
+        },
+        {
+            "city": "Атырау"
+        },
+        {
+            "city": "Актау"
+        },
+        {
+            "city": "Алмата"
+        },
+        {
+            "city": "Костанай"
+        },
+        {
+            "city": "Караганда"
+        },
+        {
+            "city": "Шымкент"
+        },
+        {
+            "city": "Нур-Султан"
+        },
+        {
+            "city": "Семей"
+        }
+    ],
+    "contentItems": [
+        {
+            "id": 0,
+            "img": "https://hostingkartinok.com/show-image.php?id=8bb602ffcde648b2e0457ea333ad4ea8",
+            "title" : "Сталь угловая 25/4", 
+            "price": "615"
+        },
+        {
+            "id": 1,
+            "img": "https://hostingkartinok.com/show-image.php?id=f9dfdb891a806e95e0c9dedecf59d2b3",
+            "title" : "Арматура 16 мм Ferrum", 
+            "price": "505"
+        },
+        {
+            "id": 2,
+            "img": "https://hostingkartinok.com/show-image.php?id=faeaada8362fb3a1568777a2a1a1bcd2",
+            "title" : "Труба профильная 40/40/15", 
+            "price": "845"
+        },
+        {
+            "id": 3,
+            "img": "https://hostingkartinok.com/show-image.php?id=f9dfdb891a806e95e0c9dedecf59d2b3",
+            "title" : "Арматура 12 мм",
+            "price": "340"
+        },
+        {
+            "id": 4,
+            "img": "https://hostingkartinok.com/show-image.php?id=e7d4309aa897606058ac12fb976922c0",
+            "title": "Швеллер 10",
+            "price": "2799"
+        },
+        {
+            "id": 5,
+            "img": "https://hostingkartinok.com/show-image.php?id=a39a403fca8abf3b7d8fc28f87e2bb20",
+            "title" : "Арматура 14 мм",
+            "price": "435"
+        },
+        {
+            "id": 6,
+            "img": "https://hostingkartinok.com/show-image.php?id=faeaada8362fb3a1568777a2a1a1bcd2",
+            "title": "Труба профильная 60/60/20",
+            "price": "1750"
+        },
+        {
+            "id": 7,
+            "img": "https://hostingkartinok.com/show-image.php?id=8bb602ffcde648b2e0457ea333ad4ea8",
+            "title" : "Сталь угловая 70/5", 
+            "price": "1509"
+        },
+        {
+            "id": 8,
+            "img": "https://hostingkartinok.com/show-image.php?id=faeaada8362fb3a1568777a2a1a1bcd2",
+            "title" : "Труба водогазопроводная 20/25",
+            "price": "635"
+        },
+        {
+            "id": 9,
+            "img": "https://hostingkartinok.com/show-image.php?id=8bb602ffcde648b2e0457ea333ad4ea8",
+            "title" : "Сталь угловая 50/5", 
+            "price": "1985"
+        },
+        {
+            "id": 10,
+            "img": "https://hostingkartinok.com/show-image.php?id=e3efbe364601bb9f2965d3add3c0fc3f",
+            "title" : "Квадрат 14 мм",
+            "price": "369"
+        },
+        {
+            "id": 11,
+            "img": "https://hostingkartinok.com/show-image.php?id=d0b4a20283bc60d6e418a1c326b5f1a9",
+            "title" : "Арматура 10 мм",
+            "price": "270"
+        }
+    ]
+}

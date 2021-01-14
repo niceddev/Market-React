@@ -1,0 +1,15 @@
+.order-form {
+  border-bottom: 0 solid $orange !important;
+  padding-bottom: 20px;
+
+  a {
+    color: #757575 !important;
+  }
+
+  .active {
+    color: $orange !important;
+    border-color: #fff !important;
+    border-bottom-color: $orange !important;
+    border-bottom-width: 2px !important;
+  }
+}

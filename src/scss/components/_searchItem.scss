@@ -1,0 +1,39 @@
+.searchInput {
+  min-width: 400px;
+  border: 2px solid $orange;
+  border-radius: 15px;
+  margin-bottom: 0px !important;
+  background: transparent;
+  color: #fff !important;
+  cursor: pointer;
+
+  &:focus {
+    background: transparent;
+  }
+
+  &:hover {
+    background: transparent;
+  }
+
+  &::placeholder {
+    color: #fff;
+  }
+}
+
+.searchBtn {
+  background-color: rgba(0, 0, 0, 0);
+  border-color: rgba(0, 0, 0, 0);
+  padding: 0px;
+  color: $orange;
+
+  &:focus {
+    background-color: rgba(0, 0, 0, 0) !important;
+  }
+  &:hover {
+    background-color: rgba(0, 0, 0, 0) !important;
+    border-color: rgba(0, 0, 0, 0) !important;
+  }
+  &:active {
+    background-color: red;
+  }
+}

@@ -1,0 +1,14 @@
+.recallBtn {
+  width: 100px;
+  height: 100px;
+  margin: 50px;
+  padding: 15px;
+  border-radius: 50%;
+  border: 3px solid $orange;
+  color: $orange;
+  font-weight: bold;
+
+  p {
+    margin: auto;
+  }
+}

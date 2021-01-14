@@ -1,0 +1,26 @@
+.footerWrap {
+  background-color: #212121;
+  margin: 65px 0 0 0;
+  color: #fff;
+
+  .flex-column {
+    float: right;
+  }
+
+  button {
+    margin: 10px;
+  }
+
+  h1 {
+    border-bottom: 1px solid #fff;
+    padding-bottom: 20px;
+    margin-bottom: 25px;
+  }
+
+  .copyright {
+    border-top: 1px solid #fff;
+    padding-top: 20px;
+    text-align: center;
+    margin-top: 25px;
+  }
+}

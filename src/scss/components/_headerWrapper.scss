@@ -1,0 +1,22 @@
+.headerWrapper {
+  background: #212121 url("../../assets/img/JPGheader.jpg") no-repeat;
+  background-size: 100%;
+  background-position: top;
+  padding-top: 250px;
+
+  h1 {
+    text-shadow: -3px -2px #fff;
+    font-size: 5vw;
+    color: $orange;
+    margin-bottom: 50px !important;
+  }
+}
+
+.citiesContent {
+  button {
+    position: relative;
+    width: 120px;
+    height: 40px;
+    margin: 10px;
+  }
+}
